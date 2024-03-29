@@ -6,7 +6,7 @@ This project preprocesses the Titanic dataset and trains machine learning models
 
 The Titanic dataset (`titanic_train.csv`) contains information about passengers aboard the Titanic, including features such as passenger class, age, number of siblings/spouses, number of parents/children, fare, sex, and embarked port.
 
-## Preprocessing Steps
+## Pre-Processing Steps
 
 1. Load the dataset using pandas.
 2. Select features ('Pclass', 'Age', 'SibSp', 'Parch', 'Fare', 'Sex', 'Embarked') and the target variable ('Survived').
@@ -24,7 +24,7 @@ The preprocessed data is split into training and testing sets. Three classificat
 
 Model performance is evaluated using accuracy, precision, recall, and F1-score.
 
-## How to Run
+## How to Run?
 
 1. Clone this repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
@@ -33,7 +33,7 @@ Model performance is evaluated using accuracy, precision, recall, and F1-score.
 ## Files
 
 - `titanic_train.csv`: The Titanic dataset.
-- `preprocess_and_model.py`: Python script for preprocessing and modeling.
+- `preprocess_and_model.py`: Python script for preprocessing and modelling.
 - `requirements.txt`: File containing required dependencies.
 - `README.md`: Documentation for the project.
 
