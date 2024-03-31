@@ -4,7 +4,7 @@ This project preprocesses the Titanic dataset and trains machine learning models
 
 ## Dataset
 
-The Titanic dataset (`titanic_train.csv`) contains information about passengers aboard the Titanic, including features such as passenger class, age, number of siblings/spouses, number of parents/children, fare, sex, and embarked port.
+The Titanic dataset (`titanic_train.csv`) contains information about passengers aboard the Titanic, including features such as passenger class, age, number of siblings/spouses, number of parents/children, fare, sex, and embarked port. Fuor the model performance use any unseen test dataset. 
 
 ## Pre-Processing Steps
 
